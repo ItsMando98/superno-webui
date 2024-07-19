@@ -28,7 +28,7 @@
 				<div class=" mt-4 text-center text-sm dark:text-gray-200 w-full">
 					{$i18n.t('Your account status is currently pending activation.')}<br />
 					{$i18n.t(
-						'To access the Superno AI, please reach out to the administrator.'
+						'To access Superno AI, please reach out to the administrator.'
 					)}
 				</div>
 
